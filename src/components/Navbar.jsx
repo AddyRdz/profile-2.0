@@ -9,7 +9,7 @@ const Navbar = () => {
         </div>
         {/* menu */}
         <div>
-            <ul>
+            <ul className='flex'>
                 <li>About</li>
                 <li>Home</li>
                 <li>Skills</li>

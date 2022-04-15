@@ -11,7 +11,7 @@ const Home = () => {
             <h2 className="text-4xl sm:text-3xl font-bold text-[#ccd6f6]">I'm a Full Stack Developer.</h2>
             <p className='font-bold text-[#8f9ecc] py-4 max-w-[700px]'>Welcome to my portfolio, I am starting out my career as a software engineer. I just graduated from General Assembly and I am looking forward to applying everything I have learned. Please look around and make sure to reach out!</p>
             <div>
-                <button className='text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-black'>See my work<HiArrowNarrowRight/></button>
+                <button className='text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-black'>See my work<HiArrowNarrowRight className='ml-4'/></button>
             </div>
 
         </div>

@@ -8,11 +8,10 @@ const About = () => {
                 <div className='sm:text-right pb-8 pl-4'>
                    <p className='text-4xl font-bold inline border-b-4'>About</p> 
                 </div>
-                <div>
+                <div></div>
                 </div>
-                </div>
-                <div className='max-w-[1000px] w-full grid-cols-2 gap-8'>
-                    <div>
+                <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
+                    <div className='sm:text-right text-4xl font-bold'>
                         <p>Hi. I'm Addy, please explore my work. Look forward to hearing from you soon.</p>
                     </div>
                     <div>

@@ -10,7 +10,19 @@ import Tailwind from '../assets/tailwind.png';
 
 const Skills = () => {
   return (
-    <div>Skills</div>
+    <div name='skills'>
+        {/* Container */}
+        <div>
+            <div>
+                <p>Skills</p>
+                <p>These are the technologies I've dabbled in:</p>
+            </div>
+            <div>
+                <img src={HTML} alt="HTML icon"/>
+                <p>HTML</p>
+            </div>
+        </div>
+    </div>
   )
 }
 

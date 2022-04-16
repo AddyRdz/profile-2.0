@@ -10,7 +10,7 @@ import TAILWIND from '../assets/tailwind.png';
 
 const Skills = () => {
   return (
-    <div name='skills' className='bg-[#1b1ba5] text-[#ccd6f6]'>
+    <div name='skills' className='w-full h-screen bg-[#1b1ba5] text-[#ccd6f6]'>
         {/* Container */}
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
             <div>
@@ -40,7 +40,7 @@ const Skills = () => {
             </div>
             <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                 <img className='w-20 mx-auto' src={NODE} alt="NODE icon"/>
-                <p className='my-4'>NODE</p>
+                <p className='my-4'>NODE JS</p>
             </div>
             <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                 <img className='w-20 mx-auto' src={BOOTSTRAP} alt="BOOTSTRAP icon"/>

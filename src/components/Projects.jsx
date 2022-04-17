@@ -1,4 +1,8 @@
 import React from 'react'
+import Blackjack from '../assets/Blackjack.jpeg'
+import CodingPals from '../assets/CodingPals.jpeg'
+import EBB from '../assets/EBB.jpeg'
+import MyPetPro from '../assets/MyPetPro.jpeg'
 
 export const Projects = () => {
   return (

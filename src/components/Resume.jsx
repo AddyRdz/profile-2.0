@@ -2,7 +2,7 @@ import React from 'react'
 
 const Resume = () => {
   return (
-    <div>Resume</div>
+    <div className='w-full h-screen bg-[#1b1ba5]'>Resume</div>
   )
 }
 

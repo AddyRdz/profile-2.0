@@ -23,10 +23,10 @@ export const Projects = () => {
 
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='/'>
+                            <a href='http://my-pet-pro.herokuapp.com/'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-black font-bold text-lg'>Website</button>
                             </a>
-                            <a href='/'>
+                            <a href='https://github.com/AddyRdz/MyPetPro'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-black font-bold text-lg'>Code
                                 </button>
                             </a>
@@ -41,10 +41,10 @@ export const Projects = () => {
 
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='/'>
+                            <a href='https://everythingbobsburgers.netlify.app/'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-black font-bold text-lg'>Website</button>
                             </a>
-                            <a href='/'>
+                            <a href='https://github.com/AddyRdz/everything-bobs-burgers'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-black font-bold text-lg'>Code
                                 </button>
                             </a>
@@ -59,10 +59,10 @@ export const Projects = () => {
 
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='/'>
+                            <a href='http://coding-pal.herokuapp.com/code-pals'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-black font-bold text-lg'>Website</button>
                             </a>
-                            <a href='/'>
+                            <a href='https://github.com/AddyRdz/Coding-PAL-s'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-black font-bold text-lg'>Code
                                 </button>
                             </a>
@@ -77,10 +77,10 @@ export const Projects = () => {
 
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='/'>
+                            <a href='https://addyrdz.github.io/Blackjack_Addy/'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-black font-bold text-lg'>Website</button>
                             </a>
-                            <a href='/'>
+                            <a href='https://github.com/AddyRdz/Blackjack_Addy'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-black font-bold text-lg'>Code
                                 </button>
                             </a>

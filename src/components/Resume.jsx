@@ -1,4 +1,7 @@
 import React from 'react'
+import resume from '../assets/01_Addy Rodriguez.pdf'
+import { Document, Page, pdfjs } from 'react-pdf'
+pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudfare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`
 
 const Resume = () => {
   return (

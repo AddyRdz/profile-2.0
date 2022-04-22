@@ -19,7 +19,7 @@ const Navbar = () => {
                 <li><Link  to="about" smooth={true} offset={50} duration={500} >About</Link></li>
                 <li><Link  to="skills" smooth={true} offset={50} duration={500} >Skills</Link></li>
                 <li><Link  to="projects" smooth={true} offset={50} duration={500} >Projects</Link></li>
-                {/* <li><Link  to="resume" smooth={true} offset={50} duration={500} >Resume</Link></li> */}
+                <li><Link  to="resume" smooth={true} offset={50} duration={500} >Resume</Link></li>
                 <li><Link  to="contact" smooth={true} offset={50} duration={500} >Contact</Link></li>
             </ul>
 
@@ -38,8 +38,8 @@ const Navbar = () => {
             <li className='py-6 text-4xl'>
             <Link onClick={handleClick} to="projects" smooth={true} offset={50} duration={500} >Projects</Link></li>
             <li className='py-6 text-4xl'>
-            {/* <Link onClick={handleClick} to="resume" smooth={true} offset={50} duration={500} >Resume</Link></li>
-            <li className='py-6 text-4xl'> */}
+            <Link onClick={handleClick} to="resume" smooth={true} offset={50} duration={500} >Resume</Link></li>
+            <li className='py-6 text-4xl'>
             <Link onClick={handleClick} to="contact" smooth={true} offset={50} duration={500}>Contact</Link></li>
         </ul>
         {/* Social Icons */}
@@ -65,7 +65,7 @@ const Navbar = () => {
             </li>
             <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300'>
                 <a className='flex justify-between items-center w-full text-gray-300' 
-                href="/">
+                href="https://docs.google.com/document/d/1yvardLksJX3vBRNSvMMNZ1ucd42D0InZ31GVgjUvkKg/edit?usp=sharing">
                     Resume <BsFillPersonLinesFill size={30}/>
                 </a>
             </li>

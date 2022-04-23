@@ -1,6 +1,13 @@
 # Profile-2.0
 Second time's the charm! First version I was using npm but after a security alert error I decided to go the Yarn route instead for this version.
 
+# Technologies Used 
+JavaScript
+HTML
+CSS
+Tailwind
+Yarn
+
 ## Goals
 Hoping to add dark and light mode to this project.
 Would be great to add pdf version of resume as well.
